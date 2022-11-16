@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Blue Places
+  - Tiles
+  - Stored Tiles
+  - Blue
+  - Store
+  - Player Board
+  - Red
+  - Red Places
+  - Yellow Places
+  - Yellow
+  - Green Places
+  - Green
+  - Purple Places
+  - Purple
+  - Orange Places
+  - Orange
+  - Galaxy Places
+  - Galaxy
+  - Factory Location
+  - Factory
+  - Middle Factory
+  - Camera Buttons
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  - Zoom Collider
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Blue Places
+    uniqueID: 355153611
+    locked: 0
